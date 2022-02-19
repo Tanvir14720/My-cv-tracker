@@ -1,7 +1,8 @@
 # Software-Project-1-Assignment-1
 #My 1st Software Project Assignment
-#My CV
-# I Learned 
+### #My CV
+## I Learned
+- Create a CV
 - Repository initialization
 - Adding files to git
 - Checking git status
