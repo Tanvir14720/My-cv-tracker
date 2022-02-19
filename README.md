@@ -1,5 +1,6 @@
 # Software-Project-1-Assignment-1
-#My Assignment
+#My 1st Software Project Assignment
+#My CV
 # I Learned 
 - Repository initialization
 - Adding files to git
